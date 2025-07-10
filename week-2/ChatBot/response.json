@@ -1,0 +1,19 @@
+{
+    "hi": "Hello! 👋",
+    "hello": "Hi there!",
+    "hey": "Hey! What can I do for you?",
+    "how are you": "I'm just a bunch of Python code, but doing great!",
+    "what is your name": "I'm PyBot, your simple Python chatbot 🤖",
+    "bye": "Goodbye! Have a great day!",
+    "help": "I can respond to: hi, hello, how are you, what's your name, bye, help, time, date, joke, thanks",
+    "thanks": "You're welcome! 😊",
+    "thank you": "No problem at all!",
+    "who created you": "I was created by a Python enthusiast learning how to build smart bots!",
+    "what can you do": "Right now, I can chat, respond to basic questions, and make you smile!",
+    "tell me a joke": "Why don’t scientists trust atoms? Because they make up everything! 😄",
+    "what's the time": "Sorry, I can't access real-time data yet. ⏳",
+    "what's the date": "I'm not connected to a clock yet, but I can still chat!",
+    "i'm bored": "Wanna hear a joke or maybe ask me a fun fact?",
+    "good morning": "Good morning! ☀️ Hope you have a productive day ahead!",
+    "good night": "Sweet dreams! 🌙"
+}

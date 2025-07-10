@@ -1,4 +1,5 @@
 from engine import ChatBot
+from utils import log_conversation
 
 bot = ChatBot()
 bot.greet()
@@ -7,4 +8,7 @@ while True:
     if(user.lower() == 'exit'):
         print('Bot: Bye!')
         break
-    print(f"Bot: {bot.respond(user)}")
+    botRes = bot.respond(user)
+    print(f"Bot:{botRes}")
+
+    log_conversation(user,botRes)

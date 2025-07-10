@@ -1,0 +1,8 @@
+User: hi
+bot: Hello! ðŸ‘‹
+User: lol
+bot: I'm not sure how to respond to that 🤔
+User: bie
+bot: I'm not sure how to respond to that 🤔
+User: bye
+bot: Goodbye! Have a great day!
